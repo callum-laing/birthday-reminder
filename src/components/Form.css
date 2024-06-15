@@ -1,0 +1,32 @@
+.birthdayForm {
+    display: grid;
+    width: 500px;
+    margin: 25px;
+    background-color: rgba(200, 200, 200);
+    color: black;
+    padding: 10px;
+}
+
+input {
+    margin-top: 20px;
+    border-radius: 5px;
+    padding: 5px;
+    margin-left: 5px;
+}
+
+label {
+    font-weight: 900;
+}
+
+.submitForm,
+.ideaInput {
+    background-color: green;
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 100px;
+}
+
+
+.ideaInput {
+    margin-left: 10px;
+}
