@@ -1,23 +1,22 @@
 .birthdayForm {
-    display: grid;
-    align-items: center;
-    max-width: 600px;
-    grid-gap: 10px;
+    display: block;
+    max-width: 1000px;
     background-color: rgba(200, 200, 200);
-    padding: 25px;
+    padding: 15px;
     border-radius: 5px;
 }
 
 input {
     border-radius: 5px;
     padding: 5px;
-    margin-left: 5px;
+    margin: 0px 15px;
     background-color: rgba(50, 50, 100);
 }
 
 label {
     font-weight: 900;
     color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .submitForm {
